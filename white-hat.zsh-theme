@@ -1,4 +1,4 @@
-# White hat theme v1.2.5
+# White hat theme v1.0.0
 #
 # Copyright 2017, All rights reserved
 #

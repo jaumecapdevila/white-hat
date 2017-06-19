@@ -4,7 +4,7 @@
 #
 # @author Jaume Capdevila <contact@jaumecapdevila.net>
 
-PROMPT='%{$fg_bold[white]%}Λ  %{$fg[green]%}%c $(git_prompt_info)%{$fg_bold[white]%}:: '
+PROMPT='%{$fg_bold[white]%}Λ %{$fg[green]%}%c $(git_prompt_info)%{$fg_bold[white]%}:: '
 
 ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg[blue]%}git:(%{$fg[cyan]%}"
 ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%}"
